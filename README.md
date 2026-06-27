@@ -1,93 +1,113 @@
+```md
 <h1 align="center">Hi 👋, I'm Abdulrahman Khalid</h1>
 
 <h3 align="center">
-Mechatronics Technology Engineer | CAD Designer | Embedded Systems Developer | Robotics Enthusiast
+Mechatronics Technology Engineer | Mechanical Design | Robotics | Embedded Systems
 </h3>
 
 <p align="center">
-Building intelligent mechanical systems by combining Mechanical Design, Electronics, Programming and Automation.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Mechanical+Design+Engineer;SolidWorks+%7C+Embedded+Systems;Arduino+%7C+PCB+Design;Always+Learning+New+Technologies" />
 </p>
 
-<hr>
+---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<ul>
-<li>🎓 Mechatronics Technology Engineer</li>
-<li>📍 Egypt</li>
-<li>🎂 23 Years Old</li>
-<li>⚙️ Passionate about Mechanical Design & Product Development</li>
-<li>🤖 Interested in Robotics, Automation, Embedded Systems & IoT</li>
-<li>🖥️ Strong focus on CAD Design, Arduino, ESP32 and Industrial Applications</li>
-<li>🚀 Always learning new technologies and improving engineering skills</li>
-</ul>
+- 🎓 Mechatronics Technology Engineer
+- 🇪🇬 From Egypt
+- 🎂 23 Years Old
+- ⚙️ Passionate about Mechanical Design
+- 🤖 Robotics & Embedded Systems Enthusiast
+- 🚀 Interested in Automation, IoT & Product Development
 
-<hr>
+---
 
-<h2>🛠 Engineering Skills</h2>
+## 🛠 Tech Stack
 
-<p>
+<p align="center">
 
-✔ SolidWorks
-
-✔ AutoCAD
-
-✔ Arduino
-
-✔ ESP32
-
-✔ C++
-
-✔ Python
-
-✔ Embedded Systems
-
-✔ Robotics
-
-✔ Mechanical Design
-
-✔ Product Design
-
-✔ Motion Study
-
-✔ Assembly Design
-
-✔ Reverse Engineering
-
-✔ PLC Basics
-
-✔ Electronics
-
-✔ Sensors
-
-✔ 3D Printing
+<img src="https://skillicons.dev/icons?i=cpp,python,arduino,git,github,vscode,matlab"/>
 
 </p>
 
-<hr>
+### CAD & Engineering Software
 
-<h2>🚀 Current Focus</h2>
+- ✅ SolidWorks
+- ✅ AutoCAD
+- ✅ Proteus
+- ✅ Altium Designer
+- ✅ Arduino IDE
+- ✅ PCB Design
+- ✅ Mechanical Design
+- ✅ Product Design
+- ✅ Motion Study
+- ✅ Assembly Design
+- ✅ Reverse Engineering
 
-<ul>
-<li>Mechanical Design</li>
-<li>Machine Design</li>
-<li>Product Development</li>
-<li>Robotics Projects</li>
-<li>Embedded Systems</li>
-<li>Industrial Automation</li>
-<li>Open Source Engineering Projects</li>
-</ul>
+---
 
-<hr>
+## 🚀 Currently Working On
 
-<h2>📊 GitHub</h2>
+- Mechanical Design Projects
+- SolidWorks Professional Models
+- Arduino Projects
+- Robotics
+- Smart Systems
+- PCB Design
 
-<p>
-Open Source • Engineering • CAD • Robotics • Embedded Systems
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1)
+
+---
+
+## 🌍 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/abdulrhman-khaled606
+
+🛠 GrabCAD
+
+https://grabcad.com/abdulrahman.khaled-10
+
+🎥 YouTube
+
+https://www.youtube.com/@AKMechanicalDesign
+
+📘 Facebook
+
+https://web.facebook.com/tc.eng.abdulrahman.khalid
+
+💼 Khamsat
+
+https://khamsat.com/user/tc_eng_abdo1
+
+---
+
+## 💡 Quote
+
+> "Engineering is turning ideas into reality."
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<hr>
-
-<h3 align="center">
-"Engineering is not just solving problems... it's creating better solutions."
-</h3>
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
+```
